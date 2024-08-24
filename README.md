@@ -1,5 +1,7 @@
 # Sequential Nuclear Decay
 
+![](https://github.com/stevens97/Sequential_Nuclear/blob/main/Sample.png)
+
 This Jupyter Notebook provides a tutorial of how sequential nuclear decay rates can be computed numerically within Python.
 
 This code is primarily for educational purposes.
