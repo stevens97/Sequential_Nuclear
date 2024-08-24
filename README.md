@@ -2,7 +2,7 @@
 
 ![](https://github.com/stevens97/Sequential_Nuclear/blob/main/Sample.png)
 
-This Jupyter Notebook provides a tutorial of how sequential nuclear decay rates can be computed numerically within Python.
+This Jupyter Notebook is designed to calculate sequential nuclear decay rates in Python.
 
 ## Prerequisites for using this program:
 
